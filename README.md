@@ -1,7 +1,7 @@
 # OpenClassrooms - Project 10
 **Project Name: Learn@Home**  
 **Project Title: "Design a school support application"**  
-**Take a look ! : [Desktop](https://github.com/RmiMekaa/RemiRoeland_10_18-09-2021/blob/master/Maquettes/Desktop.pdf) | [Mobile](https://github.com/RmiMekaa/RemiRoeland_10_18-09-2021/blob/master/Maquettes/Mobile.pdf)
+**Take a look ! : [Desktop](https://github.com/RmiMekaa/RemiRoeland_10_18-09-2021/blob/master/Maquettes/Desktop.pdf) | [Mobile](https://github.com/RmiMekaa/RemiRoeland_10_18-09-2021/blob/master/Maquettes/Mobile.pdf)**
 
 ## Project objectives
  - Analyze the needs of the app
