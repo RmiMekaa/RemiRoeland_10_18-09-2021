@@ -4,6 +4,7 @@
 **Take a look ! : [Desktop](https://github.com/RmiMekaa/RemiRoeland_10_18-09-2021/blob/master/Maquettes/Desktop.pdf) | [Mobile](https://github.com/RmiMekaa/RemiRoeland_10_18-09-2021/blob/master/Maquettes/Mobile.pdf)**
 
 ## Project objectives
+ - Use Kanban method to manage your workflow
  - Analyze the needs of the app
  - Use Case Diagrams
  - Write user stories
